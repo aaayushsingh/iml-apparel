@@ -4340,3 +4340,12 @@ textarea {
 	    margin: 0 auto 10px;
 	}
 }
+
+.newnav{
+    background: #000 !important;
+
+}
+
+.newGallery{
+    margin-top: 30px;
+}
